@@ -14,10 +14,6 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:lczllx@139.com" target="_blank" alt="Email" title="Email">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="32px"/>
-  </a>
-  &emsp;
   <a href="https://github.com/lczllx" target="_blank" alt="GitHub" title="GitHub">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="32px"/>
   </a>
