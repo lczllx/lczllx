@@ -25,18 +25,15 @@
   <strong>Deep in the kernel. Silence is golden.</strong>
 </p>
 
-### Interests & Related Work
+### Interests
 
-- **🛠️ Core Projects**
-  - [High-Performance C++ Reactor Network Lib](https://github.com/lczllx/muduo) : epoll + Master-Slave Reactor model + Double-buffered queue, single-machine full-link stress test reaching **15w+ QPS**.
-  - [Distributed Raft Consensus](https://github.com/lczllx/MIT-6.5840) : Independent implementation of Leader election, Log replication, and Snapshot compression.
-  - [Lightweight RPC Framework](https://github.com/lczllx/muduo) : Protobuf + Custom TCP protocol, integrated with etcd for service discovery, supporting both JSON and Protobuf serialization.
+- **Distributed Consensus.** How machines reach agreement in unreliable environments. The design of Raft, leader election, and handling network partitions.
 
-- **⚙️ Tech Stack & Languages**
-  - C++11/17, Go, Python
-  - TCP/IP, epoll, Protobuf
-  - Redis, MySQL, Docker, etcd
-  - Linux System Programming, Lock-free Queues, GDB / Perf / Wireshark
+- **Network I/O and Concurrency.** The principles of epoll, the challenges of lock-free synchronization, and the interactions between kernel space and user space.
+
+- **Protocols and Serialization.** Lightweight communication patterns, binary data framing, and how serialization formats impact latency and bandwidth.
+
+- **Systems Programming.** C++ memory management, Go's runtime and scheduling, and observing low-level behavior using tools like Perf and GDB.
 
 <br>
 
